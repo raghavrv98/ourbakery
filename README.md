@@ -1,13 +1,12 @@
-## First Step
+## First Step (Clone the repo)
 
+## git clone https://github.com/raghavrv98/ourbakery.git
+
+## Second Step (Install the dependencies)
 ### `npm install`
 
-## second Step
-
+## Third Step (Run the project)
 ### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
