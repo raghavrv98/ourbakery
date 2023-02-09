@@ -1,0 +1,38 @@
+export const data = [
+  {
+    id: 1,
+    key: "cake",
+    DisplayName: "Cake",
+    desc: "Tasty Cake",
+    price: "300",
+    count: 0,
+    imgUrl: "li1.png",
+  },
+  {
+    id: 2,
+    key: "choclateMoose",
+    DisplayName: "Choclate Moose",
+    desc: "Tasty Choclate Moose",
+    price: "100",
+    count: 0,
+    imgUrl: "li2.png",
+  },
+  {
+    id: 3,
+    key: "cheeseCake",
+    DisplayName: "Cheese Cake",
+    desc: "Tasty Cheese Cake",
+    price: "150",
+    count: 0,
+    imgUrl: "li3.png",
+  },
+  {
+    id: 4,
+    key: "pastry",
+    DisplayName: "Pastry",
+    desc: "Tasty Pastry",
+    price: "80",
+    count: 0,
+    imgUrl: "li4.png",
+  },
+];
